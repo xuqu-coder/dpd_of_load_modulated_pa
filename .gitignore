@@ -1,0 +1,20 @@
+# local environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# local agent settings
+.claude/
+.cursor/
+
+# secrets
+.env
+.env.*
+*.pem
+credentials.json
+id_rsa
+id_rsa.*
+
+# copyrighted papers and other PDFs
+*.pdf
